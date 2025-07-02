@@ -1,6 +1,6 @@
 # General ignores
 #-------------------------------------------------------------------------------
-# Operating System files
+# Operating System files# Operating System files
 .DS_Store
 Thumbs.db
 ehthumbs.db
