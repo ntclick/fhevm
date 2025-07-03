@@ -7,8 +7,8 @@ For overview of the system, architecture and details on individual components, r
 ## Main features
 KMS can be configured to two modes:
 
-- Centralized
-- Threshold
+- Centralized.
+- Threshold.
 
 ## Table of contents
 
