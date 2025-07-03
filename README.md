@@ -5,7 +5,6 @@
   <img width=500 alt="fhevm">
 </picture>
 </p>
-
 <hr/>
 
 <p align="center">
