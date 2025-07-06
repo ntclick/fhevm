@@ -6,7 +6,7 @@ This section will guide you through writing confidential smart contracts in Soli
 
 ## Where to go next
 
-If you’re new to the Zama Protocol, start with the [Litepaper](https://docs.zama.ai/protocol/zama-protocol-litepaper) or the [Protocol Overview](https://docs.zama.ai/protocol) to understand the foundations.
+If you’re new to the Zama Protocol, start with the [Litepaper](https://docs.zama.ai/protocol/zama-protocol-litepaper ) or the [Protocol Overview](https://docs.zama.ai/protocol ) to understand the foundations.
 
 Otherwise:
 
@@ -24,5 +24,5 @@ Otherwise:
 
 Ask technical questions and discuss with the community.
 
-- [Community forum](https://community.zama.ai/c/fhevm/15)
-- [Discord channel](https://discord.com/invite/fhe-org)
+- [Community forum](https://community.zama.ai/c/fhevm/15 )
+- [Discord channel](https://discord.com/invite/fhe-org )
